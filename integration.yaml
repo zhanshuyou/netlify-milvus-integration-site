@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://sdk.netlify.com/sdk/config-schema.json
+config:
+  slug: rimje6r1-milvus-faker
+  name: milvus-faker
+  description: -l
+
+  scopes:
+    site: ["read", "write"]
+    user: ["read", "write", "read", "write"]
